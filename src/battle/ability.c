@@ -15,7 +15,6 @@
 #include "../../include/constants/file.h"
 
 
-
 // function declarations from this file
 int MoveCheckDamageNegatingAbilities(struct BattleStruct *sp, int attacker, int defender);
 //int SwitchInAbilityCheck(void *bw, struct BattleStruct *sp);

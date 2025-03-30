@@ -82,7 +82,7 @@ trainerdata 2, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_CYNDAQUIL
+        pokemon SPECIES_KINGAMBIT
         ballseal 0
     endparty
 
@@ -261,10 +261,10 @@ trainerdata 8, "Joey"
 
     party 8
         // mon 0
-        ivs 0
+        ivs 255
         abilityslot 0
         level 4
-        pokemon SPECIES_RATTATA
+        pokemon SPECIES_KORAIDON
         ballseal 0
     endparty
 
@@ -16726,7 +16726,7 @@ trainerdata 496, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_CYNDAQUIL
+        pokemon SPECIES_KORAIDON
         ballseal 0
     endparty
 
